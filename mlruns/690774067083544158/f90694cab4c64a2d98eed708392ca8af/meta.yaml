@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mbotev/OneDrive/KONDEVS/ML/DataSets/mlruns/690774067083544158/f90694cab4c64a2d98eed708392ca8af/artifacts
+end_time: 1700754198474
+entry_point_name: ''
+experiment_id: '690774067083544158'
+lifecycle_stage: active
+run_id: f90694cab4c64a2d98eed708392ca8af
+run_name: XGBoostClassification
+run_uuid: f90694cab4c64a2d98eed708392ca8af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700754198328
+status: 3
+tags: []
+user_id: mbotev

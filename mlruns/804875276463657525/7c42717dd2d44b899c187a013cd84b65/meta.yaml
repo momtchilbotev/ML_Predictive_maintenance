@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mbotev/OneDrive/KONDEVS/ML/DataSets/mlruns/804875276463657525/7c42717dd2d44b899c187a013cd84b65/artifacts
+end_time: 1700745409483
+entry_point_name: ''
+experiment_id: '804875276463657525'
+lifecycle_stage: active
+run_id: 7c42717dd2d44b899c187a013cd84b65
+run_name: Custom_Classification_Model
+run_uuid: 7c42717dd2d44b899c187a013cd84b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700745389428
+status: 3
+tags: []
+user_id: mbotev

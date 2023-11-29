@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/mbotev/OneDrive/KONDEVS/ML/DataSets/mlruns/690774067083544158
+creation_time: 1700754025514
+experiment_id: '690774067083544158'
+last_update_time: 1700754025514
+lifecycle_stage: active
+name: XGBoostClassification
